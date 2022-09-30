@@ -30,29 +30,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/xynoz26_'
-global.sgh = 'https://github.com/xynoz'
-global.sgc = 'https://chat.whatsapp.com/J5qUMoYUrtFKQEzXTg0Fit'
-global.swa = 'wa.me/6283839200413'
+global.sig = 'https://instagram.com/hamzz_jr'
+global.sgh = 'https://github.com/HamzBotzzzzz'
+global.sgc = 'https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxxhttps://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx'
+global.swa = 'wa.me/6288214989352'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082184080698'
-global.povo = '082184080698'
-global.pgopay = '083839200413'
-global.ppulsa = '083839200413'
-global.ppulsa2 = '082184080698'
-global.psaweria = 'https://saweria.co/xynozbotz'
+global.pdana = '088214989352'
+global.povo = '088214989352'
+global.pgopay = '088214989352'
+global.ppulsa = '088214989352'
+global.ppulsa2 = '0881023363385'
+global.psaweria = 'https://saweria.co/ZxynnBotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283839041031'
-global.nomorown = '6283839200413'
-global.namebot = 'єƖαɪηα-ʙᴏᴛᴢ'
-global.nameown = 'Ｘｙｎｏｚ'
+global.nomorbot = '48699521417'
+global.nomorown = '6288214989352'
+global.namebot = 'ZxynnBoTz-MD'
+global.nameown = 'I L H A M'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283839200413', 'Ｘｙｎｏｚ', 'true']
+  ['6288214989352', 'I L H A M', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,13 +96,13 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'єƖαɪηα-ʙᴏᴛᴢ | ʙу xуηᴏᴢ' //Main Watermark
-global.wm2 = 'єƖαɪηα-ʙᴏᴛᴢ'
-global.wm3 = 'єƖαɪηα-ʙᴏᴛᴢ | ʙу xуηᴏᴢ'
+global.wm = 'ZxynnBoTz-MD | ʙу IlhamGanz' //Main Watermark
+global.wm2 = 'ZxynnBoTz-MD'
+global.wm3 = 'ZxynnBoTz-MD | ʙу IlhamGanz'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `📮 𝙀𝙡𝙖𝙞𝙣𝙖-𝘽𝙤𝙩𝙯 | By ${global.nameown}`
-global.author = 'Ｘｙｎｏｚ✍' 
+global.titlebot = `📮 IlhamGanteng??? | By ${global.nameown}`
+global.author = 'IlhamGanz✍' 
 
 
 /*============== LOGO ==============*/
@@ -123,7 +123,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/a94ebededebcbc792a12a.jpg'
+global.thumbdoc = 'https://telegra.ph/file/be753b5f756c77b41a47b.jpghttps://telegra.ph/file/be753b5f756c77b41a47b.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -151,8 +151,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '❃' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = '⛩ＸｙｎｏｚＢｏｔｚ'
-global.stickauth = `ʙʏ xʏɴᴏᴢ`
+global.stickpack = 'ZxynnBoTz-MD'
+global.stickauth = `By IlhamGanz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
